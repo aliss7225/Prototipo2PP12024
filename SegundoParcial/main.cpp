@@ -24,7 +24,8 @@ int main()
         	system("cls");
 
     cout <<"\t\t\t--------------------------------------------"<<endl;
-    cout <<"\t\t\t |            Menu General                  |"<<endl;
+    cout <<"\t\t\t | Alisson Rocio Abigail López Ortíz        |"<<endl;
+    cout <<"\t\t\t | 9959-23-7225                             |"<<endl;
     cout <<"\t\t\t--------------------------------------------"<<endl;
 	cout<<"\t\t\t 1. Catalogo"<<endl;
 	cout<<"\t\t\t 2. Salir"<<endl;
