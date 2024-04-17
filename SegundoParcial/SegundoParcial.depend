@@ -8,8 +8,29 @@
 	<conio.h>
 	<iomanip>
 
-1713370295 c:\users\gaby\desktop\segundo parcial\prototipo2pp12024\segundoparcial\include\admi.h
+1713370513 c:\users\gaby\desktop\segundo parcial\prototipo2pp12024\segundoparcial\include\admi.h
 	<iostream>
 	<fstream>
 	<string>
+
+1713371103 source:c:\users\gaby\desktop\segundo parcial\prototipo2pp12024\segundoparcial\src\general.cpp
+	"general.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713371288 c:\users\gaby\desktop\segundo parcial\prototipo2pp12024\segundoparcial\include\general.h
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713371328 source:c:\users\gaby\desktop\segundo parcial\prototipo2pp12024\segundoparcial\main.cpp
+	<iostream>
+	<admi.h>
+	<general.h>
 

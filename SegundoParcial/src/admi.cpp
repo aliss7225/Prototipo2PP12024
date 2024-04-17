@@ -113,5 +113,3 @@ bool admi::VerificarUsuario()
     return false;
     }
 }
-
-void admi::MenuUser()
