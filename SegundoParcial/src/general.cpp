@@ -68,7 +68,7 @@ void general::menuPrincipal()
     cout <<"\t\t\t----------------------------------"<<endl;
 	cout<<"\t\t\t 1. CRUD "<<endl;
 	cout<<"\t\t\t 2. INFORMES"<<endl;
-	cout<<"\t\t\t 3. Exit"<<endl;
+	cout<<"\t\t\t 3. Salir"<<endl;
 
 	cout<<"\t\t\t-------------------------------"<<endl;
 	cout<<"\t\t\tOpcion a escoger:[1/2/3]"<<endl;
@@ -105,7 +105,7 @@ int opcion;
    {
 
      cout <<"\t\t\t--------------------------------------------"<<endl;
-    cout <<"\t\t\t |                 Catalogo                 |"<<endl;
+    cout <<"\t\t\t |                 CRUD                     |"<<endl;
     cout <<"\t\t\t--------------------------------------------_"<<endl;
 	cout<<"\t\t\t 1. Ingreso de producto"<<endl;
 	cout<<"\t\t\t 2. Modificar producto "<<endl;
