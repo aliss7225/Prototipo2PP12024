@@ -105,7 +105,7 @@ int opcion;
    {
 
      cout <<"\t\t\t--------------------------------------------"<<endl;
-    cout <<"\t\t\t |                 Menu General             |"<<endl;
+    cout <<"\t\t\t |                 Catalogo                 |"<<endl;
     cout <<"\t\t\t--------------------------------------------_"<<endl;
 	cout<<"\t\t\t 1. Ingreso de producto"<<endl;
 	cout<<"\t\t\t 2. Modificar producto "<<endl;
@@ -113,7 +113,7 @@ int opcion;
 	cout<<"\t\t\t 4. SALIR"<<endl;
 
 	cout<<"\t\t\t-------------------------------"<<endl;
-	cout<<"\t\t\tOpcion a escoger:[1/2/3/4/5]"<<endl;
+	cout<<"\t\t\tOpcion a escoger:[1/2/3/4]"<<endl;
 	cout<<"\t\t\t-------------------------------"<<endl;
 	cout<<"Ingresa tu Opcion: ";
 

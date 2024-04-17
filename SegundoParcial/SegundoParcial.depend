@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1713370295 source:c:\users\gaby\desktop\segundo parcial\prototipo2pp12024\segundoparcial\src\admi.cpp
+1713371358 source:c:\users\gaby\desktop\segundo parcial\prototipo2pp12024\segundoparcial\src\admi.cpp
 	"admi.h"
 	<iostream>
 	<fstream>
