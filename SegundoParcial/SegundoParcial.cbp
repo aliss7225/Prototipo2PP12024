@@ -35,8 +35,10 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/admi.h" />
+		<Unit filename="include/general.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/admi.cpp" />
+		<Unit filename="src/general.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
